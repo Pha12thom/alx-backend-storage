@@ -1,5 +1,5 @@
 # alx-backend-storage
-Sure, here's a basic README file that you can use to document the MySQL commands and syntax provided in the cheatsheet:
+
 
 ---
 
